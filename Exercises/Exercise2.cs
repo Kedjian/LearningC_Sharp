@@ -1,10 +1,8 @@
-using System;
-
-namespace LearningBox
+namespace Exercises
 {
     internal class Exercise2
     {
-        static void Main(string[] args)
+        public static void Execute()
         {
             double number1, number2, arithmeticAverage;
             

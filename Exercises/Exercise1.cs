@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace LearningBox
+﻿namespace Exercises
 {
     internal class Exercise1
     {
-        static void Main(string[] args)
+        public static void Execute()
         {
             string text;
 
