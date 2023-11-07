@@ -45,6 +45,8 @@ namespace Exercises
                     Console.WriteLine("The middle number is: " + c);
                 }
             }
+            
+            Console.ReadKey();
         }
     }
 }
