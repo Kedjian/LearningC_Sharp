@@ -22,6 +22,7 @@ namespace Exercises
             // Exercise14.Execute();
             // Exercise15.Execute();
             // Exercise16.Execute();
+            // Exercise17.Execute();
             // AdditionalExercise1.Execute();
             // AdditionalExercise2.Execute();
             // AdditionalExercise3.Execute();
