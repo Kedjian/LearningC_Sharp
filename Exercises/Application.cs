@@ -40,6 +40,8 @@ namespace Exercises
             // AdditionalExercise9eg4.Execute();
             // AdditionalExercise9eg5.Execute();
             // AdditionalExercise9eg6.Execute();
+            // AdditionalExercise10.Execute();
+            // AdditionalExercise11.Execute();
         }
     }
 }
