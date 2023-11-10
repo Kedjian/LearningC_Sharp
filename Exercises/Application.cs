@@ -27,6 +27,7 @@ namespace Exercises
             // Exercise19.Execute();
             // Exercise20.Execute();
             // Exercise21.Execute();
+            // Exercise22.Execute();
             // AdditionalExercise1.Execute();
             // AdditionalExercise2.Execute();
             // AdditionalExercise3.Execute();
@@ -43,6 +44,7 @@ namespace Exercises
             // AdditionalExercise9eg6.Execute();
             // AdditionalExercise10.Execute();
             // AdditionalExercise11.Execute();
+            // AdditionalExercise12.Execute();
         }
     }
 }
