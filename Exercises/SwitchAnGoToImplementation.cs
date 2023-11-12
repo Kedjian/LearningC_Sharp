@@ -1,6 +1,6 @@
 namespace Exercises
 {
-    internal class SwitchAndoToImplementation
+    internal class SwitchAnGoToImplementation
     {
         public static void Execute()
         {
