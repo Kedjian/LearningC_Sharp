@@ -1,6 +1,6 @@
 namespace Exercises
 {
-    internal class AdditionalExercise8
+    internal class AdditionalExercise08
     {
         public static void Execute()
         {
