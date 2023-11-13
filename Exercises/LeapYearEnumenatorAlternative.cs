@@ -1,6 +1,6 @@
 namespace Exercises
 {
-    internal class LeapYearEnumerator
+    internal class LeapYearEnumenatorAlternative
     {
         public static void Execute()
         {

@@ -1,6 +1,6 @@
 namespace Exercises
 {
-    internal class BodyMassIndexEnumerator
+    internal class BodyMassIndexEnumenator
     {
         public static void Execute()
         {

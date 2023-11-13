@@ -1,6 +1,6 @@
 namespace Exercises
 {
-    internal class RootsEnumerator
+    internal class RootsEnumenator
     {
         public static void Execute()
         {
