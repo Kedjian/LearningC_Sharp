@@ -15,8 +15,9 @@ namespace Exercises
             switch (choice)
             {
                 case '1':
-                    for (i = 5; i >= 5; i--)
+                    for (i = 0; i < 5; i++)
                     {
+                        for (n = i; n < 5; n++)
                             Console.Write(sym);
                             //Work in progress. 
                     }
