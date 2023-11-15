@@ -6,7 +6,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            // ScholarshipQualificator.Execute();
+            ShapeCreator.Execute();
         }
     }
 }
