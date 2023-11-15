@@ -18,7 +18,7 @@ namespace Exercises
                     for (i = 5; i >= 5; i--)
                     {
                             Console.Write(sym);
-                            //Work in progress.
+                            //Work in progress. 
                     }
                     break;
                 
