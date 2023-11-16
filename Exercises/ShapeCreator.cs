@@ -8,7 +8,7 @@ namespace Exercises
             char choice;
             
             Console.WriteLine("Enter 1 for a triangle, 2 for its horizontally swapped version, 3 for its inverted version, and 4 for a 0 figure.");
-            choice = Convert.ToChar(Console.ReadLine());
+            choice = Convert.ToChar(Console.Read());
             
             switch (choice)
             {
