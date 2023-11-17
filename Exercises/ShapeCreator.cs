@@ -7,7 +7,7 @@ namespace Exercises
             string sym = "*";
             char choice;
             
-            Console.WriteLine("Enter 1 for a triangle, 2 for its horizontally swapped version, 3 for its inverted version, and 4 for a 0 figure.");
+            Console.WriteLine("Enter 1 for a triangle, and 2 for its horizontally swapped version.");
             choice = Convert.ToChar(Console.Read());
             
             switch (choice)
@@ -32,7 +32,6 @@ namespace Exercises
                         }
                     }
                     break;
-                
                 default:
                     Console.WriteLine("You fricked that up mate.");
                     break;
