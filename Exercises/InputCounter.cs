@@ -4,22 +4,18 @@ namespace Exercises
     {
         public static void Execute()
         {
-            int digit;
-            int sum = 0;
-            int numSum = 1;
+            int input;
+            int inpSum = 0;
+            int inpCounter = -1;
 
             do
             {
-                Console.WriteLine("Enter a digit: ");
-                digit = Convert.ToInt32(Console.ReadLine());
-                
-                digit += sum;
-                
-                // Doesn't work, it needs a fix.
-                
-                Console.WriteLine("{0} {1}", digit, numSum);
-            } while (digit == 0);
-            Console.WriteLine("{0} was the amount of digits entered.", numSum);
+                inpCounter++;
+                Console.WriteLine("Enter an input: ");
+                input = Convert.ToInt32(Console.ReadLine());
+                inpSum += input;
+            } while (input != 0);
+            Console.WriteLine("Digits summarized: {0}. \nNumber of inputs: {1}.", inpSum, inpCounter);
         }
     }
 }
