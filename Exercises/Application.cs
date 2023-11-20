@@ -6,7 +6,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            // BoardExample03.Execute();
+            BoardExample04.Execute();
         }
     }
 }
