@@ -6,7 +6,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            StarsShapeExample01.Execute();
+            NestedLoopShapeCreationExample01.Execute();
         }
     }
 }
