@@ -6,7 +6,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            NestedLoopShapeCreationExample02.Execute();
+            // NestedLoopShapeCreationExample03.Execute();
         }
     }
 }
