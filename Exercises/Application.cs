@@ -6,7 +6,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            BoardExample05.Execute();
+            StarsShapeExample01.Execute();
         }
     }
 }
