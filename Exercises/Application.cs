@@ -6,7 +6,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            // NestedLoopShapeCreationExample03.Execute();
+            PrimeNumberEnumenator.Execute();
         }
     }
 }
