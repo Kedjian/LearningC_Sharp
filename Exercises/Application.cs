@@ -6,7 +6,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            // GroupPrimeNumberEnumenator.Execute();
+            DivisableBy3And7Enumenator.Execute();
         }
     }
 }
