@@ -1,6 +1,6 @@
 namespace Exercises
 {
-    internal class MultipleFactorNumberComparisor
+    internal class MultipleFactorNumberComparison
     {
         public static void Execute()
         {
