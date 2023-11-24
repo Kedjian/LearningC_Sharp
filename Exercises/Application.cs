@@ -5,8 +5,8 @@ namespace Exercises
     internal class Application
     {
         static void Main(string[] args)
-        {
-           // MultipleFactorNumberComparison.Execute();
+        { 
+            TwinPrimesEnumenator.Execute();
         }
     }
 }
