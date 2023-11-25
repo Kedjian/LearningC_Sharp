@@ -6,7 +6,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         { 
-            HighFeverIbuprofenDosingAssistant.Execute();
+            NumberSwapping.Execute();
         }
     }
 }
