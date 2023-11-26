@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.arrays
 {
-    internal class BoardExample01
+    internal class ArraysExercise01
     {
         public static void Execute()
         {
