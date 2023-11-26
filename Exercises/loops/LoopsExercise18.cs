@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class SeriesSum
+    internal class LoopsExercise18
     {
         public static void Execute()
         {

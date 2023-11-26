@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class MultiplicationTableEnumenator
+    internal class LoopsExercise13
     {
         public static void Execute()
         {

@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class DigitSummarizer
+    internal class LoopsExercise02
     {
         public static void Execute()
         {
@@ -11,7 +11,7 @@ namespace Exercises
             while (summary < 100)
             {
                 Console.WriteLine("Enter a digit: ");
-                num1 = int.Parse(Console.ReadLine());
+                num1 = Convert.ToInt32(Console.ReadLine());
                 summary += num1;
                 inputs += 1;
                 Console.WriteLine("The summary of digits entered is: " + summary + ".");

@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class ComplexDigitSummarizer
+    internal class LoopsExercise01
     {
         public static void Execute()
         {
@@ -9,7 +9,7 @@ namespace Exercises
             int countNum = 0;
 
             Console.WriteLine("Type any positive number you choose: ");
-            wantedNum = int.Parse(Console.ReadLine());
+            wantedNum = Convert.ToInt32(Console.ReadLine());
 
             do
             {

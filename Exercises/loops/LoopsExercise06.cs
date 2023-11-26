@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class FibonnaciEnumenator
+    internal class LoopsExercise06
     {
         public static void Execute()
         {

@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class DigitSummarizerBetweenNumbers
+    internal class LoopsExercise03
     {
         public static void Execute()
         {

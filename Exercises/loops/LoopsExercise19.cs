@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class SimpleMathPowAlternative
+    internal class LoopsExercise19
     {
         public static void Execute()
         {

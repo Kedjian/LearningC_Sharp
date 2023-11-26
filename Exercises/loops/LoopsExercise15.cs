@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class NestedLoopShapeCreationExample02
+    internal class LoopsExercise15
     {
         public static void Execute()
         {

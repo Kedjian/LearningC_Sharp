@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class GroupPrimeNumberEnumenator
+    internal class LoopsExercise07
     {
         public static void Execute()
         {

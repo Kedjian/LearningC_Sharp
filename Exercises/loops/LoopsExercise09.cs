@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class InterestEnumenator
+    internal class LoopsExercise09
     {
         public static void Execute()
         {

@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class MultipleFactorNumberComparison
+    internal class LoopsExercise12
     {
         public static void Execute()
         {

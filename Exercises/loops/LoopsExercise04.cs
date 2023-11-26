@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class DivisableBy3And7Enumenator
+    internal class LoopsExercise04
     {
         public static void Execute()
         {

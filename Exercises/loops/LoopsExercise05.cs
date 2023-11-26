@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class FactorialEnumenator
+    internal class LoopsExercise05
     {
         public static void Execute()
         {

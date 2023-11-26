@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class NumberPiApproximator
+    internal class LoopsExercise17
     {
         public static void Execute()
         {

@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class TwinPrimesEnumenator
+    internal class LoopsExercise20
     {
         public static void Execute()
         {

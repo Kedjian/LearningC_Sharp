@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class LimitChecker
+    internal class LoopsExercise10
     {
         public static void Execute()
         {

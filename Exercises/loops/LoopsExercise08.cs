@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.loops
 {
-    internal class InputCounter
+    internal class LoopsExercise08
     {
         public static void Execute()
         {
