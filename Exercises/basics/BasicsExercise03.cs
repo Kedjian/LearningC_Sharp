@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.basics
 {
-    internal class BoolPostPreIncrementation
+    internal class BasicsExercise03
     {
         public static void Execute()
         {
@@ -9,7 +9,7 @@ namespace Exercises
             x = (y == 1 && z++ == 1);
             Console.WriteLine(x);
             Console.WriteLine(z);
-            //x = true, x = 1, z = 2
+            // x = true, x = 1, z = 2
         }
     }
 }

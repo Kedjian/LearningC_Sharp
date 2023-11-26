@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.basics
 {
-    internal class NumberSwapping
+    internal class BasicsExercise13
     {
         public static void Execute()
         {

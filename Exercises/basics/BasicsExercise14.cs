@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.basics
 {
-    internal class OperationalExample01
+    internal class BasicsExercise14
     {
         public static void Execute()
         {

@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.basics
 {
-    internal class ComplexPostPreIncrementation
+    internal class BasicsExercise10
     {
         public static void Execute()
         {

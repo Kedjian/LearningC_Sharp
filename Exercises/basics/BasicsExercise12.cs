@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.basics
 {
-    internal class MathProblemPrinter
+    internal class BasicsExercise12
     {
         public static void Execute()
         {

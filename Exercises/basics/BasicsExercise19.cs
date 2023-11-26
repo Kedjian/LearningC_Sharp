@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.basics
 {
-    internal class TemperatureConverter
+    internal class BasicsExercise19
     {
         public static void Execute()
         {

@@ -1,6 +1,6 @@
-﻿namespace Exercises
+﻿namespace Exercises.basics
 {
-    internal class ReturnName
+    internal class BasicsExercise17
     {
         public static void Execute()
         {
