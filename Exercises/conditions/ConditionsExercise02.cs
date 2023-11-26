@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class BodyMassIndexEnumenatorAlternative
+    internal class ConditionsExercise02
     {
         public static void Execute()
         {

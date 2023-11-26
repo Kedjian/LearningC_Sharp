@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class DividerEnumenator
+    internal class ConditionsExercise04
     {
         public static void Execute()
         {

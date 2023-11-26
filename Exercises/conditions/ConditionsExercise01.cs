@@ -1,13 +1,13 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class AgeVerification
+    internal class ConditionsExercise01
     {
         public static void Execute()
         {
             int wiek;
             
             Console.WriteLine("Enter your age: ");
-            wiek = int.Parse(Console.ReadLine());
+            wiek = Convert.ToInt32(Console.ReadLine());
 
             if (wiek >= 18)
             {

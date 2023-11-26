@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class SwitchAndGoToImplementation
+    internal class ConditionsExercise22
     {
         public static void Execute()
         {

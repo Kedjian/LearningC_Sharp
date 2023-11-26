@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class RootsEnumeratorAlternative
+    internal class ConditionsExercise15
     {
         public static void Execute()
         {

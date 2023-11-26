@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class SpecificAgeVerification
+    internal class ConditionsExercise21
     {
         public static void Execute()
         {

@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class SimpleNumberComparison
+    internal class ConditionsExercise20
     {
         public static void Execute()
         {

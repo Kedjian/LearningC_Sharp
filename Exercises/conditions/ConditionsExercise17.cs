@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class ShapeCreator
+    internal class ConditionsExercise17
     {
         public static void Execute()
         {

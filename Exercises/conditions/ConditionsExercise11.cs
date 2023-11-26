@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class NumberDivisibilityCheck
+    internal class ConditionsExercise11
     {
         public static void Execute()
         {

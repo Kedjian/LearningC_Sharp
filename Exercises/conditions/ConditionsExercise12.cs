@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class NumberSorter
+    internal class ConditionsExercise12
     {
         public static void Execute()
         {

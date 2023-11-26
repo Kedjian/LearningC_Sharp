@@ -1,11 +1,10 @@
 namespace Exercises
 {
-    internal class RequirementChecker
+    internal class ConditionsExercise14
     {
         public static void Execute()
         {
             double x;
-            
             do
             {
                 Console.WriteLine("Enter X integer fulfilling requirements of 2<|x|<3: ");

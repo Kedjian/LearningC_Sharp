@@ -1,12 +1,12 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class LeapYearEnumenator
+    internal class ConditionsExercise07
     {
         public static void Execute()
         {
             int year;
             Console.WriteLine("Enter a chosen year: ");
-            year = int.Parse(Console.ReadLine());
+            year = Convert.ToInt32(Console.ReadLine());
             
             if (year % 4 == 0)
             {

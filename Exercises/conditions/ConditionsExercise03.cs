@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class DayGuesser
+    internal class ConditionsExercise03
     {
         public static void Execute()
         {

@@ -1,17 +1,17 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class MiddleNumberEnumenator
+    internal class ConditionsExercise09
     {
         public static void Execute()
         {
             double a, b, c;
             
             Console.WriteLine("Enter the first number: ");
-            a = double.Parse(Console.ReadLine());
+            a = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Enter the second number: ");
-            b = double.Parse(Console.ReadLine());
+            b = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Enter the third number: ");
-            c = double.Parse(Console.ReadLine());
+            c = Convert.ToDouble(Console.ReadLine());
 
             if (a == b | a == c | b == c)
             {

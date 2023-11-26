@@ -1,17 +1,17 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class HighestNumberPrinter
+    internal class ConditionsExercise05
     {
         public static void Execute()
         {
             double number1, number2, number3, highestNumber;
             
             Console.WriteLine("Enter the first number: ");
-            number1 = double.Parse(Console.ReadLine());
+            number1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Enter the second number: ");
-            number2 = double.Parse(Console.ReadLine());
+            number2 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Enter the third number: ");
-            number3 = double.Parse(Console.ReadLine());
+            number3 = Convert.ToDouble(Console.ReadLine());
 
             if (number1 > number2)
             {

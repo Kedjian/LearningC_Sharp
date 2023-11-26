@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class LeapYearEnumenatorAlternative
+    internal class ConditionsExercise08
     {
         public static void Execute()
         {

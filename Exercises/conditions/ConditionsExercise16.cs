@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class ScholarshipQualificator
+    internal class ConditionsExercise16
     {
         public static void Execute()
         {

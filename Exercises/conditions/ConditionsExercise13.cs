@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class RangeChecker
+    internal class ConditionsExercise13
     {
         public static void Execute()
         {

@@ -1,6 +1,6 @@
-namespace Exercises
+namespace Exercises.conditions
 {
-    internal class SimpleCalculator
+    internal class ConditionsExercise19
     {
         public static void Execute()
         {
@@ -19,39 +19,42 @@ namespace Exercises
             {
                 case '+':
                     result = a + b;
-                    Console.WriteLine("{0} + {1} equals to {2}.", a, b, result);
-                    Console.ReadKey();
+                    Console.WriteLine(a + " + " + b + " equals to: " + result);
                     break;
+                
                 case '-':
                     result = a - b;
-                    Console.WriteLine("{0} - {1} equals to {2}.", a, b, result);
-                    Console.ReadKey();
+                    Console.WriteLine(a + " - " + b + " equals to: " + result);
                     break;
+                
                 case '*':
                     result = a * b;
-                    Console.WriteLine("{0} * {1} equals to {2}.", a, b, result);
-                    Console.ReadKey();
+                    Console.WriteLine(a + " * " + b + " equals to: " + result);
                     break;
+                
                 case '/':
-                    if (b == 0)
+                    if (b != 0)
                     {
-                        Console.WriteLine("You cannot divide by zero.");
-                        Console.ReadKey();
-                        break;
+                        result = a / b;
+                        Console.WriteLine(a + " / " + b + " equals to: " + result);
                     }
                     else
                     {
-                        result = a / b;
-                        Console.WriteLine("{0} / {1} equals to {2}.", a, b, result);
-                        Console.ReadKey();
-                        break; 
+                        Console.WriteLine("It's not possible to divide by zero.");
                     }
+                    break;
+                    
                 case '^':
                     result = Math.Pow(a, b);
-                    Console.WriteLine("{0} ^ {1} equals to {2}.", a, b, result);
-                    Console.ReadKey();
+                    Console.WriteLine(a + "^" + b + " equals to: " + result);
+                    break;
+                
+                default:
+                    Console.WriteLine("There is no operator like the one you entered.");
                     break;
             }
+
+            Console.ReadKey();
         }
     }
 }
