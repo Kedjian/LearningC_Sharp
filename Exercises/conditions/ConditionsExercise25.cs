@@ -11,7 +11,7 @@ namespace Exercises.conditions
             n2 = Convert.ToInt32(Console.ReadLine());
 
             result = n1 + n2;
-            if (result >= 10 & 20 <= result)
+            if (result >= 10 & 20 >= result)
             {
                 result = 30;
                 Console.WriteLine("{0}", result);
