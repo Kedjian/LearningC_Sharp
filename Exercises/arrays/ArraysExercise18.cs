@@ -4,7 +4,6 @@ namespace Exercises.arrays
     {
         public static void Execute()
         {
-            
             int size;
             double sum = 0;
             int positives = 0;
