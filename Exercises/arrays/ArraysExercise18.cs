@@ -48,7 +48,7 @@ namespace Exercises.arrays
             Console.WriteLine("The biggest integer is: {0} at position {1}.", currentMax, maxPos);
             Console.WriteLine("The smallest integer is: {0} at position {1}.", currentMin, minPos);
             Console.WriteLine("The arithmetic average of the array is: {0}.", sum / size);
-            Console.WriteLine("The number of positive integers in the array is: {0}.", positives);
+            Console.WriteLine("The number of positive integers in the array is: {0}.", positives); 
         }
     }
 }
