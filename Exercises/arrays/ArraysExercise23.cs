@@ -4,7 +4,7 @@ namespace Exercises.arrays
     {
         public static void Execute()
         {
-            Console.Write("_______________________________\n\tDni tygodnia\n     w różnych językach.\n\nPolski / Angielski / Niemiecki.\n");
+            Console.Write("\nPolski / English / Deutsch.\n");
             string[,] weekDays = new string[7,3];
             weekDays[0, 0] = "Poniedzialek";
             weekDays[0, 1] = "Monday";
@@ -43,7 +43,6 @@ namespace Exercises.arrays
                     }
                 }
             }
-            Console.Write("\n_______________________________");
         }
     }
 }
