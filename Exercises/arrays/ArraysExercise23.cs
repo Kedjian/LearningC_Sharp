@@ -43,6 +43,7 @@ namespace Exercises.arrays
                     }
                 }
             }
+            Console.Write("\n");
         }
     }
 }
