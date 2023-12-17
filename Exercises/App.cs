@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         { 
-            Exercises.arrays.ArraysExercise23.Execute(); 
+            Exercises.methods.MethodsExercise01.Execute(); 
         }
     }
 }
