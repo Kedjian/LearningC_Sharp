@@ -6,11 +6,11 @@ namespace Exercises.methods
         {
             static double Divide(double x, int y)
             {
-                double divided = x / y;
                 if (y == 0)
                 {
                     throw new Exception("Undefined");
                 }
+                double divided = x / y;
                 Console.Write("{0} / {1} equals to ", x, y);
                 return divided;
             }
